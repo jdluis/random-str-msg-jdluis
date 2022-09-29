@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-jdluis",
+  "version": "1.0.0",
+  "description": "Testing npm dependency creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdluis/random-str-msg-jdluis.git"
+  },
+  "keywords": [],
+  "author": "jdluis.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdluis/random-str-msg-jdluis/issues"
+  },
+  "homepage": "https://github.com/jdluis/random-str-msg-jdluis#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
